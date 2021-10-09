@@ -15,3 +15,6 @@ A google colab page that was created to work on Naive Bayes Classifications usin
 
 ## ICE-5
 A google colab page that was created to work on logistic regression , calculate averages , and plot ROC graphs. The assignment also required the calculation of precision, recall, mircroF1 scores, and macroF scores.
+
+## ICE-6
+A google colab page that was created to work with a creating a neural network based on data that was given. A heatmap was created as a result.
