@@ -18,3 +18,18 @@ A google colab page that was created to work on logistic regression , calculate 
 
 ## ICE-6
 A google colab page that was created to work with a creating a neural network based on data that was given. A heatmap was created as a result.
+
+## ICE-8
+Created my own language model using python
+
+## ICE-9
+Using smoothing techniques on data and comparing results.
+
+## ICE-10
+Spelling correction using diffrent types of algorithms to fix spelling mistakes.
+
+## ICE-11
+Using diffrent types of algorithms for question answering problems with inputed news.
+
+## ICE-12
+Summarizing text using diffrent algorithms.
